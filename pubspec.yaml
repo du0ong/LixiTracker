@@ -23,3 +23,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - lib/image/img.png # Thêm đường dẫn ảnh của bạn ở đây
